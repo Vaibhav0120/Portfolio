@@ -22,5 +22,5 @@ You can explore my projects, view my skills, and learn more about my background.
 
 For questions or feedback, please reach out to me at:
 
-- Email: [email Id](mailto:vaibhavsh0120@gmail.com @gmail.com)
-- LinkedIn: [ LinkedIn Profile](www.linkedin.com/in/vaibhavsh0120)
+- Email: [email Id](mailto:vaibhavsh0120@gmail.com)
+- LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/vaibhavsh0120/)
