@@ -15,9 +15,8 @@ Hey there! I'm **Vaibhav Sharma**, a BTech student in Computer Science and Engin
 
 From transforming raw ideas into sleek, functional solutions to collaborating with innovative minds, I’m all about creating impactful digital experiences. If you're passionate about tech and want to build something great together, let's connect! 🚀
 
----
 
-## 🌟 Key Features
+<h2 align="center">🌟 Key Features</h2>
 
 - 🖥️ **Responsive Design:** Adaptable across all devices for a seamless experience.
 - 📁 **Project Portfolio:** Showcase of my work, including live demos and code repositories.
@@ -25,13 +24,12 @@ From transforming raw ideas into sleek, functional solutions to collaborating wi
 
 ---
 
-## 🚀 Usage
+<h2 align="center">🚀 Usage</h2>
 
 Browse through my projects, get a peek at my skills, and feel free to reach out via the contact form for potential collaborations. I’m always open to exciting ideas and new opportunities!
 
----
 
-## 📬 Contact Me
+<h2 align="center">📬 Contact Me</h2>
 
 Whether you have a question or a project in mind, I’d love to hear from you!
 
