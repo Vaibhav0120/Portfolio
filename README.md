@@ -22,7 +22,6 @@ From transforming raw ideas into sleek, functional solutions to collaborating wi
 - 📁 **Project Portfolio:** Showcase of my work, including live demos and code repositories.
 - 🎨 **Interactive UI:** Engaging user experience through smooth and dynamic interactions.
 
----
 
 <h2 align="center">🚀 Usage</h2>
 
