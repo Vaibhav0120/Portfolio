@@ -32,8 +32,8 @@ Browse through my projects, get a peek at my skills, and feel free to reach out 
 
 Whether you have a question or a project in mind, I’d love to hear from you!
 
-- 📧 **Email:** [vaibhavsh0120@gmail.com](mailto:vaibhavsh0120@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/vaibhavsh0120/](https://www.linkedin.com/in/vaibhavsh0120/)
+- 📧 **Email:** [Vaibhavsh0120@gmail.com](mailto:vaibhavsh0120@gmail.com)
+- 💼 **LinkedIn:** [Vaibhav Sharma](https://www.linkedin.com/in/vaibhavsh0120/)
 
 ---
 
