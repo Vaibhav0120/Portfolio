@@ -1,4 +1,4 @@
-# 🌐 Vaibhav Sharma - Portfolio
+<h1 align="center">🌐 Vaibhav Sharma - Portfolio</h1>
 
 Welcome to my Portfolio Website! Dive in to discover my projects, skills, and passion for Web and Android Development, as well as Web Design.
 
@@ -6,7 +6,7 @@ Welcome to my Portfolio Website! Dive in to discover my projects, skills, and pa
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 Hey there! I'm **Vaibhav Sharma**, a BTech student in Computer Science and Engineering at IPEC, Ghaziabad, and an unstoppable tech enthusiast. My focus lies in Android Development, where I aim to create powerful, user-centric applications. Here’s a quick snapshot of my skill set:
 
