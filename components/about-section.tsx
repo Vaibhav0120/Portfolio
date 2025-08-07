@@ -100,7 +100,7 @@ export default function AboutSection() {
             About Me
           </h2>
           <p className="text-base md:text-lg text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto leading-relaxed">
-            I'm a passionate Computer Science student who believes in the harmony between technology and creativity. 
+            I&apos;m a passionate Computer Science student who believes in the harmony between technology and creativity. 
             Just like music, great code has rhythm, structure, and soul.
           </p>
         </motion.div>

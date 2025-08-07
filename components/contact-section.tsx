@@ -4,27 +4,33 @@ import { motion } from "framer-motion"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Mail, MapPin, Send, Clock, MessageCircle } from 'lucide-react'
+import { useMemo } from 'react'
 
 function ContactBackground() {
+  // Generate fixed positions to avoid hydration mismatch
+  const positions = useMemo(() => 
+    Array.from({ length: 12 }, (_, i) => ({
+      left: `${15 + (i * 7.5) % 85}%`,
+      top: `${10 + (i * 6.3) % 80}%`,
+    })), []
+  )
+
   return (
     <div className="absolute inset-0 overflow-hidden pointer-events-none">
-      {Array.from({ length: 12 }, (_, i) => (
+      {positions.map((position, i) => (
         <motion.div
           key={i}
           className="absolute w-1 h-1 bg-neutral-300/30 dark:bg-neutral-600/30 rounded-full"
-          style={{
-            left: `${Math.random() * 100}%`,
-            top: `${Math.random() * 100}%`,
-          }}
+          style={position}
           animate={{
             scale: [1, 1.5, 1],
             opacity: [0.3, 0.8, 0.3],
           }}
           transition={{
-            duration: 3 + Math.random() * 2,
+            duration: 3 + i * 0.2,
             repeat: Number.POSITIVE_INFINITY,
             ease: "easeInOut",
-            delay: Math.random() * 2,
+            delay: i * 0.2,
           }}
         />
       ))}
@@ -63,10 +69,10 @@ export default function ContactSection() {
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 md:mb-6 text-transparent bg-clip-text 
                        bg-gradient-to-r from-neutral-900 via-neutral-800 to-neutral-900 
                        dark:from-white dark:via-neutral-200 dark:to-white">
-            Let's Work Together
+            Let&apos;s Work Together
           </h2>
           <p className="text-base md:text-lg text-neutral-600 dark:text-neutral-400 max-w-3xl mx-auto px-4 md:px-0">
-            Have a project in mind? I'd love to hear about it. Let's discuss how we can 
+            Have a project in mind? I&apos;d love to hear about it. Let&apos;s discuss how we can 
             bring your ideas to life.
           </p>
         </motion.div>
@@ -200,7 +206,7 @@ export default function ContactSection() {
                   Get in touch
                 </h3>
                 <p className="text-sm md:text-base text-neutral-600 dark:text-neutral-400 mb-6 md:mb-8 leading-relaxed">
-                  I'm always open to discussing new opportunities, creative projects, 
+                  I&apos;m always open to discussing new opportunities, creative projects, 
                   or just having a friendly chat about technology and development.
                 </p>
               </div>

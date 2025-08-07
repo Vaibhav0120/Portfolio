@@ -4,7 +4,6 @@ import { motion } from "framer-motion"
 import { Github, Linkedin, Mail } from 'lucide-react'
 
 export default function Footer() {
-  const currentYear = new Date().getFullYear()
 
   return (
     <footer className="py-12 bg-white dark:bg-neutral-950 border-t border-neutral-200 dark:border-neutral-800">

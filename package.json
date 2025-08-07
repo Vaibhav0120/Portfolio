@@ -1,5 +1,5 @@
 {
-  "name": "vaibhav-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -22,7 +22,6 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.11",
     "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",
@@ -30,7 +29,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
     "postcss": "^8",
-    "tailwindcss": "^4.1.11",
+    "tailwindcss": "^3.4.0",
     "typescript": "^5"
   }
 }
