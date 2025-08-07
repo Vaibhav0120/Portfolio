@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS.
 
+(Watch Live)[https://portfolio-five-eta-vpsw44dbuu.vercel.app/]
+
 ## Features
 
 - 🌙 Dark/Light mode toggle
@@ -40,7 +42,8 @@ npm run dev
 
 ## Project Structure
 
-\`\`\`
+```bash
+
 vaibhav-portfolio/
 ├── app/
 │   ├── globals.css
@@ -81,7 +84,8 @@ vaibhav-portfolio/
 ├── postcss.config.js
 ├── tailwind.config.js
 └── tsconfig.json
-\`\`\`
+
+```
 
 ## Technologies Used
 
