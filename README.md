@@ -7,19 +7,11 @@ Built with cutting-edge web technologies, it delivers a smooth user experience, 
 
 <br>
 
-* 🚀 **Modern & Interactive** – Sleek design with smooth animations and transitions  
-
-<br>
-
 * 📱 **Fully Responsive** – Optimized for desktops, tablets, and mobile devices  
 
 <br>
 
 * ⚛️ **Built with Next.js + TypeScript** – Fast, scalable, and maintainable codebase  
-
-<br>
-
-* 🎨 **Styled with Tailwind CSS** – Consistent, customizable, and visually appealing UI  
 
 <br>
 
