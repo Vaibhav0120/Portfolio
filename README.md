@@ -2,13 +2,19 @@
 
 <!-- Intro Section -->
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; min-width: 250px;">
+
+<div style="flex: 1; min-width: 250px;">
+
 A modern, interactive, and fully responsive developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
 Showcasing my projects, skills, and journey as a developer with smooth animations, dark/light mode, and optimized performance.
-  </div>
-  <div style="flex: 0 0 40%; min-width: 100px; text-align: center;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Coding Animation">
-  </div>
+
+</div>
+
+<div style="flex: 0 0 40%; min-width: 100%; text-align: center;">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Coding Animation">
+
+</div>
 </div>
 
 
@@ -124,4 +130,3 @@ vaibhav-portfolio/
 <p align="center">
   ⭐ If you like this portfolio, please consider giving it a star!
 </p>
-
