@@ -1,21 +1,9 @@
 <h1 align='center'>🌟 Vaibhav Sharma – Developer Portfolio</h1>
 
-<!-- Intro Section -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-
-<div style="flex: 1; min-width: 250px;">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding Animation" align='right'>
 
 A modern, interactive, and fully responsive developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
 Showcasing my projects, skills, and journey as a developer with smooth animations, dark/light mode, and optimized performance.
-
-</div>
-
-<div style="flex: 0 0 40%; min-width: 100%; text-align: center;">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding Animation" align='right'>
-
-</div>
-</div>
 
 
 ---
