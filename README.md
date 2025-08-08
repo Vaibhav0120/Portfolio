@@ -2,9 +2,13 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding Animation" align='right'>
 
-A modern, interactive, and fully responsive developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
-Showcasing my projects, skills, and journey as a developer with smooth animations, dark/light mode, and optimized performance.
-
+* 🚀 **Modern & Interactive** – Sleek design with smooth animations and transitions
+* 📱 **Fully Responsive** – Optimized for desktops, tablets, and mobile devices
+* ⚛️ **Built with Next.js + TypeScript** – Fast, scalable, and maintainable codebase
+* 🎨 **Styled with Tailwind CSS** – Consistent, customizable, and visually appealing UI
+* 💼 **Portfolio-Driven** – Showcases my projects, skills, and professional journey
+* 🌙 **Dark/Light Mode Support** – Seamless theme switching for better user experience
+* ⚡ **Performance Optimized** – Fast load times and SEO-friendly structure
 
 ---
 
