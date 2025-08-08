@@ -3,11 +3,17 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding Animation" align='right'>
 
 * 🚀 **Modern & Interactive** – Sleek design with smooth animations and transitions
+
 <br>
+
 * 📱 **Fully Responsive** – Optimized for desktops, tablets, and mobile devices
+
 <br>
+
 * ⚛️ **Built with Next.js + TypeScript** – Fast, scalable, and maintainable codebase
+
 <br>
+
 * 🎨 **Styled with Tailwind CSS** – Consistent, customizable, and visually appealing UI
 * 💼 **Portfolio-Driven** – Showcases my projects, skills, and professional journey
 * 🌙 **Dark/Light Mode Support** – Seamless theme switching for better user experience
