@@ -7,7 +7,7 @@ import { motion, AnimatePresence } from "framer-motion"
 import { useEffect, useState } from 'react'
 
 export default function ThemeToggle() {
-  const { theme, setTheme } = useTheme()
+  const { theme, setTheme, resolvedTheme } = useTheme()
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
@@ -15,7 +15,34 @@ export default function ThemeToggle() {
   }, [])
 
   if (!mounted) {
-    return null
+    // Return a neutral placeholder to prevent layout shift
+    return (
+      <div className="fixed top-4 right-4 md:top-6 md:right-6 z-50">
+        <Button
+          variant="outline"
+          size="icon"
+          className="relative w-10 h-10 md:w-12 md:h-12 rounded-full bg-white/90 dark:bg-neutral-800/90 
+                   backdrop-blur-sm border-neutral-200 dark:border-neutral-700 shadow-lg
+                   transition-all duration-500"
+          disabled
+        >
+          <div className="h-4 w-4 md:h-5 md:w-5" />
+          <span className="sr-only">Toggle theme</span>
+        </Button>
+      </div>
+    )
+  }
+
+  const isDark = resolvedTheme === 'dark'
+
+  const handleToggle = () => {
+    // If currently on system theme, switch to the opposite of current resolved theme
+    if (theme === 'system') {
+      setTheme(isDark ? 'light' : 'dark')
+    } else {
+      // If already on manual theme, toggle between light and dark
+      setTheme(theme === 'dark' ? 'light' : 'dark')
+    }
   }
 
   return (
@@ -28,14 +55,14 @@ export default function ThemeToggle() {
       <Button
         variant="outline"
         size="icon"
-        onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+        onClick={handleToggle}
         className="relative w-10 h-10 md:w-12 md:h-12 rounded-full bg-white/90 dark:bg-neutral-800/90 
                  backdrop-blur-sm border-neutral-200 dark:border-neutral-700 shadow-lg hover:shadow-xl
                  transition-all duration-500 hover:scale-110 active:scale-95
                  hover:bg-white dark:hover:bg-neutral-800"
       >
         <AnimatePresence mode="wait" initial={false}>
-          {theme === "dark" ? (
+          {isDark ? (
             <motion.div
               key="moon"
               initial={{ opacity: 0, rotate: -90, scale: 0.5 }}
