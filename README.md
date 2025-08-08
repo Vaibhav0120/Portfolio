@@ -1,50 +1,61 @@
-# Vaibhav Sharma - Portfolio
+<h1 align='center'>🌟 Vaibhav Sharma – Developer Portfolio</h1>
 
 
-A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS.
 
-(Watch Live)[https://portfolio-five-eta-vpsw44dbuu.vercel.app/]
+<!-- Intro Section -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
 
-## Features
+<div style="flex: 1; min-width: 250px;">
 
-- 🌙 Dark/Light mode toggle
-- 📱 Fully responsive design
-- ⚡ Smooth animations with Framer Motion
-- 🎨 Modern UI with Tailwind CSS
-- 🚀 Built with Next.js 14
-- 📊 Showcases real projects and achievements
+A modern, interactive, and fully responsive developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
+Showcasing my projects, skills, and journey as a developer with smooth animations, dark/light mode, and optimized performance.
 
-## Getting Started
+</div>
 
-### Prerequisites
+<div style="flex: 0 0 40%; min-width: 280px; text-align: center;">
 
-- Node.js 18+ 
-- npm or yarn
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Coding Animation">
 
-### Installation
+</div>
+</div>
 
-1. Clone the repository:
-\`\`\`bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
-\`\`\`
 
-2. Install dependencies:
-\`\`\`bash
-npm install
-\`\`\`
+---
 
-3. Run the development server:
-\`\`\`bash
-npm run dev
-\`\`\`
+## 🚀 Live Demo
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+<p align="center">
+  <a href="https://portfolio-five-eta-vpsw44dbuu.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Live%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio">
+  </a>
+</p>
 
-## Project Structure
+---
 
-```bash
+## ✨ Features
 
+- 🎨 **Modern UI/UX** – Minimal, clean design with smooth animations  
+- 🌙 **Dark/Light Mode** – Seamless theme switching via `next-themes`  
+- 📱 **Fully Responsive** – Works on all devices  
+- 💼 **Projects Showcase** – With live demos & GitHub links  
+- 📩 **Contact Form** – Validation & status feedback  
+- 📄 **Resume Download** – One-click CV download  
+- ⚡ **Performance Optimized** – SEO-friendly & blazing fast  
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org/), [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/)  
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/), [Framer Motion](https://www.framer.com/motion/)  
+- **Icons:** [Lucide React](https://lucide.dev/)  
+- **Deployment:** [Vercel](https://vercel.com/)  
+
+---
+
+## 📂 Folder Structure
+
+```
 vaibhav-portfolio/
 ├── app/
 │   ├── globals.css
@@ -66,7 +77,7 @@ vaibhav-portfolio/
 │   └── utils.ts
 ├── public/
 │   ├── cv/
-│   │   └── Vaibhav_Sharma_CV.pdf
+│   │   └── Vaibhav\_Sharma\_CV.pdf
 │   ├── images/
 │   │   ├── projects/
 │   │   │   ├── lifebeat-app.png
@@ -88,23 +99,37 @@ vaibhav-portfolio/
 
 ```
 
-## Technologies Used
+---
 
-- **Framework**: Next.js 14
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **Animations**: Framer Motion
-- **Icons**: Lucide React
-- **Theme**: next-themes
+## ⚙️ Installation & Setup
 
-## Deployment
+1. **Clone the repository**
+    ```bash
+   git clone https://github.com/Vaibhav0120/portfolio.git
+   cd portfolio
+    ```
 
-The easiest way to deploy is using [Vercel](https://vercel.com):
+2. **Install dependencies**
 
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy automatically
+   ```bash
+   npm install
+   ```
 
-## License
+3. **Run the development server**
 
-This project is open source and available under the [MIT License](LICENSE).
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production**
+
+   ```bash
+   npm run build
+   npm start
+   ```
+---
+
+<p align="center">
+  ⭐ If you like this portfolio, please consider giving it a star!
+</p>
+
