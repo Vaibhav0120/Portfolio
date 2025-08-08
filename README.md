@@ -2,22 +2,28 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding Animation" align='right'>
 
-* 🚀 **Modern & Interactive** – Sleek design with smooth animations and transitions
+A modern, interactive, and fully responsive portfolio website that highlights my work, skills, and professional journey.  
+Built with cutting-edge web technologies, it delivers a smooth user experience, high performance, and a clean, visually appealing interface.
 
 <br>
 
-* 📱 **Fully Responsive** – Optimized for desktops, tablets, and mobile devices
+* 🚀 **Modern & Interactive** – Sleek design with smooth animations and transitions  
 
 <br>
 
-* ⚛️ **Built with Next.js + TypeScript** – Fast, scalable, and maintainable codebase
+* 📱 **Fully Responsive** – Optimized for desktops, tablets, and mobile devices  
 
 <br>
 
-* 🎨 **Styled with Tailwind CSS** – Consistent, customizable, and visually appealing UI
-* 💼 **Portfolio-Driven** – Showcases my projects, skills, and professional journey
-* 🌙 **Dark/Light Mode Support** – Seamless theme switching for better user experience
-* ⚡ **Performance Optimized** – Fast load times and SEO-friendly structure
+* ⚛️ **Built with Next.js + TypeScript** – Fast, scalable, and maintainable codebase  
+
+<br>
+
+* 🎨 **Styled with Tailwind CSS** – Consistent, customizable, and visually appealing UI  
+
+<br>
+
+* 🌙 **Dark/Light Mode** – Seamless theme switching for improved accessibility  
 
 ---
 
