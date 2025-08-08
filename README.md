@@ -14,8 +14,6 @@ Built with cutting-edge technologies for a smooth user experience, high performa
 
 * 🌙 **Dark/Light Mode** – Seamless theme switching for improved accessibility 
 
-<br> 
-
 ---
 
 ## 🚀 Live Demo
