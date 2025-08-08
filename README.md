@@ -12,7 +12,7 @@ Showcasing my projects, skills, and journey as a developer with smooth animation
 
 <div style="flex: 0 0 40%; min-width: 100%; text-align: center;">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding Animation">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding Animation" align='right'>
 
 </div>
 </div>
