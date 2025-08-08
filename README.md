@@ -2,7 +2,8 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding Animation" align='right'>
 
-A modern, interactive, and fully responsive portfolio website that highlights my work, skills, and professional journey.  
+A modern, fully responsive portfolio showcasing my work, skills, and journey.
+Built with cutting-edge technologies for a smooth user experience, high performance, and a clean, appealing design.
 
 <br>
 
