@@ -5,8 +5,6 @@
 A modern, interactive, and fully responsive portfolio that showcases my work, skills, and professional journey.
 Built with cutting-edge technologies, it offers smooth animations, high performance, and a clean, visually engaging design for an exceptional user experience.
 
-<br>
-
 * 📱 **Fully Responsive** – Optimized for desktops, tablets, and mobile devices  
 
 <br>
@@ -15,7 +13,9 @@ Built with cutting-edge technologies, it offers smooth animations, high performa
 
 <br>
 
-* 🌙 **Dark/Light Mode** – Seamless theme switching for improved accessibility  
+* 🌙 **Dark/Light Mode** – Seamless theme switching for improved accessibility 
+
+<br> 
 
 ---
 
