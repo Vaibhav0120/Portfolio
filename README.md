@@ -5,15 +5,12 @@
 A modern, fully responsive portfolio showcasing my work, skills, and journey.
 Built with cutting-edge technologies for a smooth user experience, high performance, and a clean, appealing design.
 
-<br>
 
-* 📱 **Fully Responsive** – Optimized for desktops, tablets, and mobile devices  
+* 📱 **Fully Responsive** – Optimized for desktops, tablets, and mobile devices
 
-<br>
 
 * ⚛️ **Built with Next.js + TypeScript** – Fast, scalable, and maintainable codebase  
 
-<br>
 
 * 🌙 **Dark/Light Mode** – Seamless theme switching for improved accessibility 
 
