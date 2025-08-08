@@ -23,9 +23,12 @@ Built with cutting-edge web technologies, it delivers a smooth user experience, 
 
 <p align="center">
   <a href="https://portfolio-five-eta-vpsw44dbuu.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Live%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-1f1f1f?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio">
   </a>
+  <br>
+  <i>Click to explore the full interactive experience</i>
 </p>
+
 
 ---
 
